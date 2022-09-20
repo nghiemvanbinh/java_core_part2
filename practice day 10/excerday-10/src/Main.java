@@ -9,7 +9,7 @@ public class Main {
         acount.recharge(sc.nextDouble());
         acount.displayInfo();
 
-        //----------ex2---------------//
+        //----------ex2--------------------//
         SginLogin sg = new SginLogin();
         int choose =0;
         do{
